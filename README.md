@@ -23,7 +23,10 @@
 | 🌍 **Scalable Design** | Geographical expansion with IoT & partnerships |
 
 ---
+### 📽️ Demo Video
 
+[![Watch Demo](https://img.youtube.com/vi/QQvQKb0OC24/0.jpg)](https://youtube.com/shorts/QQvQKb0OC24?si=cM_lkAalng9QlldC)
+---
 ## 🛠️ Built With
 
 - **Language:** Swift  
